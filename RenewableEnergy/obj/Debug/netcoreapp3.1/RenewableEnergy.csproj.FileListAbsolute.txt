@@ -1,0 +1,40 @@
+C:\INFO-3138\RenewableEnergy\RenewableEnergy\bin\Debug\netcoreapp3.1\RenewableEnergy.exe
+C:\INFO-3138\RenewableEnergy\RenewableEnergy\bin\Debug\netcoreapp3.1\RenewableEnergy.deps.json
+C:\INFO-3138\RenewableEnergy\RenewableEnergy\bin\Debug\netcoreapp3.1\RenewableEnergy.runtimeconfig.json
+C:\INFO-3138\RenewableEnergy\RenewableEnergy\bin\Debug\netcoreapp3.1\RenewableEnergy.runtimeconfig.dev.json
+C:\INFO-3138\RenewableEnergy\RenewableEnergy\bin\Debug\netcoreapp3.1\RenewableEnergy.dll
+C:\INFO-3138\RenewableEnergy\RenewableEnergy\bin\Debug\netcoreapp3.1\RenewableEnergy.pdb
+C:\INFO-3138\RenewableEnergy\RenewableEnergy\obj\Debug\netcoreapp3.1\RenewableEnergy.csprojAssemblyReference.cache
+C:\INFO-3138\RenewableEnergy\RenewableEnergy\obj\Debug\netcoreapp3.1\RenewableEnergy.csproj.CoreCompileInputs.cache
+C:\INFO-3138\RenewableEnergy\RenewableEnergy\obj\Debug\netcoreapp3.1\RenewableEnergy.AssemblyInfoInputs.cache
+C:\INFO-3138\RenewableEnergy\RenewableEnergy\obj\Debug\netcoreapp3.1\RenewableEnergy.AssemblyInfo.cs
+C:\INFO-3138\RenewableEnergy\RenewableEnergy\obj\Debug\netcoreapp3.1\RenewableEnergy.dll
+C:\INFO-3138\RenewableEnergy\RenewableEnergy\obj\Debug\netcoreapp3.1\RenewableEnergy.pdb
+C:\INFO-3138\RenewableEnergy\RenewableEnergy\obj\Debug\netcoreapp3.1\RenewableEnergy.genruntimeconfig.cache
+D:\FANSHAWE\CPA\FANSHAWE Summer 2020\INFO-3138 Programming With Declarative Languages\INFO-3138\RenewableEnergy\RenewableEnergy\bin\Debug\netcoreapp3.1\RenewableEnergy.exe
+D:\FANSHAWE\CPA\FANSHAWE Summer 2020\INFO-3138 Programming With Declarative Languages\INFO-3138\RenewableEnergy\RenewableEnergy\bin\Debug\netcoreapp3.1\RenewableEnergy.deps.json
+D:\FANSHAWE\CPA\FANSHAWE Summer 2020\INFO-3138 Programming With Declarative Languages\INFO-3138\RenewableEnergy\RenewableEnergy\bin\Debug\netcoreapp3.1\RenewableEnergy.runtimeconfig.json
+D:\FANSHAWE\CPA\FANSHAWE Summer 2020\INFO-3138 Programming With Declarative Languages\INFO-3138\RenewableEnergy\RenewableEnergy\bin\Debug\netcoreapp3.1\RenewableEnergy.runtimeconfig.dev.json
+D:\FANSHAWE\CPA\FANSHAWE Summer 2020\INFO-3138 Programming With Declarative Languages\INFO-3138\RenewableEnergy\RenewableEnergy\bin\Debug\netcoreapp3.1\RenewableEnergy.dll
+D:\FANSHAWE\CPA\FANSHAWE Summer 2020\INFO-3138 Programming With Declarative Languages\INFO-3138\RenewableEnergy\RenewableEnergy\bin\Debug\netcoreapp3.1\RenewableEnergy.pdb
+D:\FANSHAWE\CPA\FANSHAWE Summer 2020\INFO-3138 Programming With Declarative Languages\INFO-3138\RenewableEnergy\RenewableEnergy\obj\Debug\netcoreapp3.1\RenewableEnergy.csprojAssemblyReference.cache
+D:\FANSHAWE\CPA\FANSHAWE Summer 2020\INFO-3138 Programming With Declarative Languages\INFO-3138\RenewableEnergy\RenewableEnergy\obj\Debug\netcoreapp3.1\RenewableEnergy.AssemblyInfoInputs.cache
+D:\FANSHAWE\CPA\FANSHAWE Summer 2020\INFO-3138 Programming With Declarative Languages\INFO-3138\RenewableEnergy\RenewableEnergy\obj\Debug\netcoreapp3.1\RenewableEnergy.AssemblyInfo.cs
+D:\FANSHAWE\CPA\FANSHAWE Summer 2020\INFO-3138 Programming With Declarative Languages\INFO-3138\RenewableEnergy\RenewableEnergy\obj\Debug\netcoreapp3.1\RenewableEnergy.csproj.CoreCompileInputs.cache
+D:\FANSHAWE\CPA\FANSHAWE Summer 2020\INFO-3138 Programming With Declarative Languages\INFO-3138\RenewableEnergy\RenewableEnergy\obj\Debug\netcoreapp3.1\RenewableEnergy.dll
+D:\FANSHAWE\CPA\FANSHAWE Summer 2020\INFO-3138 Programming With Declarative Languages\INFO-3138\RenewableEnergy\RenewableEnergy\obj\Debug\netcoreapp3.1\RenewableEnergy.pdb
+D:\FANSHAWE\CPA\FANSHAWE Summer 2020\INFO-3138 Programming With Declarative Languages\INFO-3138\RenewableEnergy\RenewableEnergy\obj\Debug\netcoreapp3.1\RenewableEnergy.genruntimeconfig.cache
+D:\rdmca\Documents\Portafolio\Projects\Renewable-Energy-XML-Parser\RenewableEnergy\bin\Debug\netcoreapp3.1\RenewableEnergy.exe
+D:\rdmca\Documents\Portafolio\Projects\Renewable-Energy-XML-Parser\RenewableEnergy\bin\Debug\netcoreapp3.1\RenewableEnergy.deps.json
+D:\rdmca\Documents\Portafolio\Projects\Renewable-Energy-XML-Parser\RenewableEnergy\bin\Debug\netcoreapp3.1\RenewableEnergy.runtimeconfig.json
+D:\rdmca\Documents\Portafolio\Projects\Renewable-Energy-XML-Parser\RenewableEnergy\bin\Debug\netcoreapp3.1\RenewableEnergy.runtimeconfig.dev.json
+D:\rdmca\Documents\Portafolio\Projects\Renewable-Energy-XML-Parser\RenewableEnergy\bin\Debug\netcoreapp3.1\RenewableEnergy.dll
+D:\rdmca\Documents\Portafolio\Projects\Renewable-Energy-XML-Parser\RenewableEnergy\bin\Debug\netcoreapp3.1\RenewableEnergy.pdb
+D:\rdmca\Documents\Portafolio\Projects\Renewable-Energy-XML-Parser\RenewableEnergy\obj\Debug\netcoreapp3.1\RenewableEnergy.csproj.AssemblyReference.cache
+D:\rdmca\Documents\Portafolio\Projects\Renewable-Energy-XML-Parser\RenewableEnergy\obj\Debug\netcoreapp3.1\RenewableEnergy.GeneratedMSBuildEditorConfig.editorconfig
+D:\rdmca\Documents\Portafolio\Projects\Renewable-Energy-XML-Parser\RenewableEnergy\obj\Debug\netcoreapp3.1\RenewableEnergy.AssemblyInfoInputs.cache
+D:\rdmca\Documents\Portafolio\Projects\Renewable-Energy-XML-Parser\RenewableEnergy\obj\Debug\netcoreapp3.1\RenewableEnergy.AssemblyInfo.cs
+D:\rdmca\Documents\Portafolio\Projects\Renewable-Energy-XML-Parser\RenewableEnergy\obj\Debug\netcoreapp3.1\RenewableEnergy.csproj.CoreCompileInputs.cache
+D:\rdmca\Documents\Portafolio\Projects\Renewable-Energy-XML-Parser\RenewableEnergy\obj\Debug\netcoreapp3.1\RenewableEnergy.dll
+D:\rdmca\Documents\Portafolio\Projects\Renewable-Energy-XML-Parser\RenewableEnergy\obj\Debug\netcoreapp3.1\RenewableEnergy.pdb
+D:\rdmca\Documents\Portafolio\Projects\Renewable-Energy-XML-Parser\RenewableEnergy\obj\Debug\netcoreapp3.1\RenewableEnergy.genruntimeconfig.cache
